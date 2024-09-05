@@ -1,6 +1,8 @@
 # Sales Report for A Steakhouse
 ## 2022/23
 
+![Net Profit](netprofit.png)
+
 - This sales report extends from January 1st, 2022 to December 31st, 2023. All figures are in USD.
 - Net profit by menu item:
   - burnt garlic tonkotsu ramen: 72,560
